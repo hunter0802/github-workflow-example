@@ -21,7 +21,7 @@ import mysql.connector
 logger = setup_logger('app.log')
 
 api = Blueprint('api', __name__)
-a;
+
 load_dotenv()
 
 # initialize connection
